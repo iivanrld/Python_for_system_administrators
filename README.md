@@ -1,6 +1,6 @@
 # Python para ASIR — Guía Completa
 
-Guía de estudio completa del libro **"Programación de Tareas de Sistema"** de Sergio de Mingo Gil, adaptada para el ciclo formativo **ASIR (Administración de Sistemas Informáticos en Red)**.
+Guía de estudio completa del libro **"Programación de Tareas de Sistema"**, adaptada para el ciclo formativo **ASIR (Administración de Sistemas Informáticos en Red)**.
 
 ## Contenido
 
@@ -39,4 +39,4 @@ xdg-open index.html  # Linux
 
 ## Licencia
 
-Contenido basado en el libro original de Sergio de Mingo Gil, licenciado bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
+Contenido basado en el libro original de ASIR.
